@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572719697473",
+    "project_id": "exerciseseven-e694a",
+    "storage_bucket": "exerciseseven-e694a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572719697473:android:45d74227fa896b6d2840c0",
+        "android_client_info": {
+          "package_name": "com.example.exerciseday7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572719697473-s8mp2bueet1spa2r00flciok8des38pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWJnqxU2JPMaKw3SqEibeJALAhPe3QwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572719697473-s8mp2bueet1spa2r00flciok8des38pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
